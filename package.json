@@ -1,0 +1,17 @@
+{
+  "name": "generator-joi-sequelize-mysql",
+  "version": "1.0.0",
+  "description": "Gerador de Schema usando JOI + MYSQL + SEQUELIZE",
+  "main": "index.js",
+  "author": "Antonio",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "jano-mysql": "^0.0.7"
+  },
+  "devDependencies": {
+    "babel-register": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}
